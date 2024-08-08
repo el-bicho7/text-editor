@@ -13,9 +13,12 @@
   - [Questions](#questions)
 
   ## Installation 
-  To install the packages you need to run 
+  To install the packages you need to run.
+
     - npm i  
-  To run app run 
+  
+  To run app run
+   
     - npm run start
 
   ## Usage
